@@ -5,9 +5,10 @@ ENTRENAMIENTO DE YOLOV3
 Este modelo esta realizado con TensorFlow js, ademas de anaconda y Python 2.1.5 permite detectar con un modelo entrenado el pie diabetico por medio de fotografia o video
 a continuación les presentraré imágenes del mismp.
 
-test1_catface.jpg
-test2_catface.jpg
-test3_catface.jpg
+
+![Imagen1](https://github.com/arnultoll/PieDiabeticoYolov3/blob/master/test1_catface.jpg)
+![Imagen2](https://github.com/arnultoll/PieDiabeticoYolov3/blob/master/test2_catface.jpg)
+![Imagen3](https://github.com/arnultoll/PieDiabeticoYolov3/blob/master/test3_catface.jpg)
 
 
 
